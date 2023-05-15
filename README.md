@@ -1,4 +1,4 @@
-# CalorieTrac-Webpack
+# Tracalorie
 Application to track meals, workouts, and calories
 
 
